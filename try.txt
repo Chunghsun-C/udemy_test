@@ -1,3 +1,4 @@
 try
 try checkout
 try checkout 2
+try fail
