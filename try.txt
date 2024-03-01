@@ -2,3 +2,4 @@ try
 try checkout
 try checkout 2
 try 3-way merge
+try 3way merge two
