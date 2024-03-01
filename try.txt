@@ -1,4 +1,4 @@
 try
 try checkout
 try checkout 2
-try fail
+try 3-way merge
