@@ -2,13 +2,8 @@ Hello
 test2.
 
 
-<<<<<<< HEAD
-hello 12312
-
-change by nush PM 13:26
-=======
 hello 123123
 
 
 hello from kuan PM 1:19
->>>>>>> 4bb656b784db1c80a07a6ff9d445d2f52163786a
+hello from nush PM 1:34
